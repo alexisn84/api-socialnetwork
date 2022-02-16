@@ -23,6 +23,8 @@
 The user will need to clone the repository onto their system, and then ensure the NPM packages listed above are installed. Please see each package's link for documentation and installation directions/code.
 
 ## Walkthrough Videos
+[Users and Friends](https://drive.google.com/file/d/1PxGC6B55zhZMsrUk_3Hr8elBzReOdRWD/view)
+[Thoughts and Reactions](https://drive.google.com/file/d/1PvTkCdfoe8bE-KmzAbGcUaihRmX8cbCm/view)
 
 ## Tests
 Testing restful API calls with Insomnia Core
